@@ -23,6 +23,11 @@ Need to start the project on set of assumptions about the environment.
 * External People: Specific people, organizations stakeholders.
 
 
+
+### Divergent & Convergent thinking
+* Divergent: ALLE muligheder til at nå en løsning
+* Convergent: For ***én*** løsning
+
 ## Evaluating Ecology Ideas
 
 ### Single idea evaluation

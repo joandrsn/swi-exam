@@ -15,9 +15,12 @@ Look into the planing of the project at the start of the sprint. Sprint review i
 * Validation: Procedures to ensure the quality of what is accomplished by the task.
 * eXit Criteria: Criteria that should be satisfied for the activity to terminate.
 
+Design by contract.
+If we send the right data into the model and implemented correctly, we have a guarantee of the output. A model of the configuration table. 
+
 ![](figures/essence_etvx_model.png)
 
-Pivot or Preservere?
+## BASED ON THE REVIEW, we decide: Pivot or Preservere?
 Bliver til en træstruktur hvoraf man kan beslutte om man skal fortsætte eller pivot.
 
 Reasons to Pivot:

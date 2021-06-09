@@ -1,7 +1,8 @@
 
 ESSENCE:
 * Views: Product, Paradigm, Project, Process
-* Roles: Challenger, Responder, Anchor, Child
+* Roles: 
+![](figures/essence_roles.png)
 
 
 * Part of everyday work in software projects.
@@ -19,3 +20,23 @@ ESSENCE:
 * Pragmatisk: Hyperkompleks. **Problem-orienteret**.
   * Hyperkompleks: SÅ MEGET kompleksitet at man ikke kan lave tage hånd om det inden rimelig tid. 
     * Systemer kan ikke længere seperares fra hinanden.
+    * Systemer skal være mere intelligente.
+
+
+## Core concerns
+![](figures/essence_core_concerns.png)
+
+## Structures in ESSENCE
+![](figures/essence_structures.png)
+
+
+## Idé
+En hypotese. Et eksperiment. Vi kan teste det og se om det virker.
+
+
+# Deweyan Inquiry
+![](figures/essence_deweyan.png)
+
+# Means and Ends
+![](figures/essence_means.png)
+
