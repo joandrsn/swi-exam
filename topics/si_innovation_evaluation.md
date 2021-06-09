@@ -23,3 +23,41 @@ De 3 dele af produktet er:
 * Develop your person creativity
 * Be a super-team-worker
 * Bring your toolbox
+
+
+## SCAMPER
+Some part of the solution, but unhappy with solution. 
+* S = Substitute
+* C = Combine
+* A = Adapt
+* M = Magnify
+* P = Put to other uses
+* E = Eliminate (Or minify)
+* R = Rearrange (or reverse)
+
+## Six serving men
+* Who (will use the main features?)
+* What (Which components and architectures?)
+* Where (Are the main features used?)
+* When (Should components be availble)
+* Why (are these main features needed)
+* How ( is a feature established)
+
+## Innovation Games
+* Show and tell
+* Product box
+
+
+# Assessment and evaluation
+Psycho-metric - measureing the strenghts and weeknesses of people
+![](figures/innovation_assessment.png)
+
+
+## Work Environment Inventory (WEI)
+* Six parameters
+  * Freedom
+  * Challenging work
+  * Sufficient resources
+  * Supervisory encouragement
+  * Work group support
+  * Organizational encouragement
