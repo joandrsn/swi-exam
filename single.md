@@ -22,7 +22,7 @@
 ESSENCE:
 * Views: Product, Paradigm, Project, Process
 * Roles: 
-![](figures/essence_roles.png)
+![](topics/figures/essence_roles.png)
 
 
 * Part of everyday work in software projects.
@@ -44,10 +44,10 @@ ESSENCE:
 
 
 ## Core concerns
-![](figures/essence_core_concerns.png)
+![](topics/figures/essence_core_concerns.png)
 
 ## Structures in ESSENCE
-![](figures/essence_structures.png)
+![](topics/figures/essence_structures.png)
 
 
 ## Idé
@@ -55,10 +55,10 @@ En hypotese. Et eksperiment. Vi kan teste det og se om det virker.
 
 
 # Deweyan Inquiry
-![](figures/essence_deweyan.png)
+![](topics/figures/essence_deweyan.png)
 
 # Means and Ends
-![](figures/essence_means.png)
+![](topics/figures/essence_means.png)
 
 # Topic 2: Essence: Roles and project organization
 * Child: Ideas without responsibility
@@ -103,11 +103,11 @@ Ecology: Hvilke eksterne services, artifakter, personer i problem domænet ville
 Need to start the project on set of assumptions about the environment.
 
 ## Figur: VENSTRE SIDE
-![](figures/essence_leverage_ecology.png)
+![](topics/figures/essence_leverage_ecology.png)
 
 
 ## Ecology filter
-![](figures/essence_preproject_ecology_filter.png)
+![](topics/figures/essence_preproject_ecology_filter.png)
 
 ### Taxonomy
 * External services: Use without modification
@@ -135,12 +135,12 @@ Need to start the project on set of assumptions about the environment.
   * Novelty
   * Attractiveness
   * Feasability
-![](figures/essence_preproject_ecology_filter.png)
+![](topics/figures/essence_preproject_ecology_filter.png)
 * SWOT
   * Translate numbers into numbers.
-![](figures/essence_preproject_swot.png)
+![](topics/figures/essence_preproject_swot.png)
 * Pairwise Comparison
-![](figures/essence_preproject_pair.png)
+![](topics/figures/essence_preproject_pair.png)
 
 
 Linker MEGET sammen med [Leverage](essence_preproject_leverage.md)
@@ -155,11 +155,11 @@ Leverage: Hvilke teknologier burde blive tilegnet som keystones, centrale princi
 Newer technologies may arrive that we cannot expect.
 
 ## Figur: HØJRE SIDE
-![](figures/essence_leverage_ecology.png)
+![](topics/figures/essence_leverage_ecology.png)
 
 
 ## Leverage filter
-![](figures/essence_preproject_leverage_filter.png)
+![](topics/figures/essence_preproject_leverage_filter.png)
 
 
 
@@ -177,13 +177,13 @@ Silvan har "faglærte" medarbejdere, mens discount har ikke.
 ### Single-idea evaluation
 * SWOT
 * Value Analysis
-![](figures/essence_preproject_value.png)
+![](topics/figures/essence_preproject_value.png)
 * PCRT: 
   * Power
   * Cost
   * Risk
   * Time
-![](figures/essence_preproject_pcrt.png)
+![](topics/figures/essence_preproject_pcrt.png)
 
 ## Comparative Idea Evaluation
 * PCRT
@@ -192,7 +192,7 @@ Silvan har "faglærte" medarbejdere, mens discount har ikke.
 # Topic 6: Essence: Configurations – Tactics, Strategy and Rationale
 # Tactics, strategy and rationale
 
-![](figures/essence_config_table.png)
+![](topics/figures/essence_config_table.png)
 # Topic 7: Essence: Configurations – Paradigm, Product, Project and Process
 # Topic 8: Essence: Project management, ETVX – Pivot or Persevere
 SCRUM: Focus on what to build and where to build.  RØD i figur
@@ -202,7 +202,7 @@ Rationale
 Strategy
 Tactics
 
-![](figures/essence_agile_model.png)
+![](topics/figures/essence_agile_model.png)
 
 Look into the planing of the project at the start of the sprint. Sprint review is also used to review the RST.
 
@@ -215,7 +215,7 @@ Look into the planing of the project at the start of the sprint. Sprint review i
 Design by contract.
 If we send the right data into the model and implemented correctly, we have a guarantee of the output. A model of the configuration table. 
 
-![](figures/essence_etvx_model.png)
+![](topics/figures/essence_etvx_model.png)
 
 ## BASED ON THE REVIEW, we decide: Pivot or Preservere?
 Bliver til en træstruktur hvoraf man kan beslutte om man skal fortsætte eller pivot.
@@ -283,7 +283,7 @@ Innovative software produkt skal tage højde for følgende:
 # Software innovations vinduet
 Det korrekte tidspunkt at bygge en applikation.
 
-![](figures/si_innovation_window.png)
+![](topics/figures/si_innovation_window.png)
 Når teknologien er moden nok.
 For sent på marked: 
 * Risikere konkurrence.
@@ -292,17 +292,17 @@ For sent på marked:
 
 ### Vandfaldsmodellen
 Hvert skridt skal være fyldt ud inden man kan gå til næste skridt.
-![](figures/si_innovation_process_waterfall.png)
+![](topics/figures/si_innovation_process_waterfall.png)
 
 ### Boeing innovation model
-![](figures/si_innovation_process_boeing.png)
+![](topics/figures/si_innovation_process_boeing.png)
 
 ## Promovere agile metoder innovation?
 Iflg. Rose: Nej. 
 Nogle elementer af agil udvikling er nødvendig for software innovation, men en agil process er ikke nok.
 
 ### Innovation ledet af marked eller teknologi
-![](figures/si_innovation_process_leader.png)
+![](topics/figures/si_innovation_process_leader.png)
 
 
 ## 6 innovation process strategier
@@ -352,11 +352,9 @@ Udviklere skal mixe og matche hensigtsmæssigt.
 * Innovative team - ??
 
 
-Der 
-
 
 ## Scientific disciplines
-![](figures/si_innovation_science.png)
+![](topics/figures/si_innovation_science.png)
 
 ## Software innovation Overview:
 * **Invention**: The creative act or process and its result (e.g. a software program). The good idea.
@@ -382,10 +380,10 @@ Something that affects someone else.
 Jeremy: Our only changes to our own process and calls that innovation.
 
 ## Technology trajectory
-![](figures/si_innovation_software_trajectory.png)
+![](topics/figures/si_innovation_software_trajectory.png)
 
 ## Technology convergence
-![](figures/si_innovation_software_trajectory.png)
+![](topics/figures/si_innovation_software_trajectory.png)
 
 
 ## Innovation community
@@ -396,10 +394,10 @@ Jeremy: Our only changes to our own process and calls that innovation.
 * Invisible college, through network
 * Knowledge exchange: Two way flow of 
 * Innovation as a social process. Domain, field and individual.
-  * ![](figures/si_innovation_social_process.png)
+  * ![](topics/figures/si_innovation_social_process.png)
 * Reflective practice
 * Knowledge as a social process.
-![](figures/innovation_tacit.png)
+![](topics/figures/innovation_tacit.png)
 
 ## Knowledge: Absorptive Capacity
 
@@ -427,7 +425,7 @@ Jeremy: Our only changes to our own process and calls that innovation.
   * team learning
   * Expertise integration
 
-![](figures/innovation_team_display.png)
+![](topics/figures/innovation_team_display.png)
 # Topic 14: SI: Innovation and community
 ## Community
 Det miljø som udvikleren færdes i.
@@ -451,7 +449,7 @@ De 3 dele af produktet er:
 * Technical
 
 ## Assessment overview
-![](figures/si_innovation_evaluation_assessment.png)
+![](topics/figures/si_innovation_evaluation_assessment.png)
 
 ## Here-and-now quick-and-dirty
 * Keep your head up
@@ -488,7 +486,7 @@ Some part of the solution, but unhappy with solution.
 
 # Assessment and evaluation
 Psycho-metric - measureing the strenghts and weeknesses of people
-![](figures/innovation_assessment.png)
+![](topics/figures/innovation_assessment.png)
 
 
 ## Work Environment Inventory (WEI)
