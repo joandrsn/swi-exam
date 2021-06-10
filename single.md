@@ -549,6 +549,7 @@ Integration and things.
 * Innovation collaboration between the agile team and other stakeholders
 * Role of the project manager
 * intra-oganization stakeholder involvement
+![](topics/figures/open_innovation_contributions.png)
 
 # Topic 17: A Lightweight Innovation Process for Software-Intensive Product Development
 # A lightweight innovatio process
