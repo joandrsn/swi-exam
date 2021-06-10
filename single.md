@@ -233,6 +233,8 @@ Reasons to Pivot:
 * External dynamics - Changes in one place may incour changes in the project.
   * IT value
   * Business value
+
+![](topics/figures/essence_pivot_reasons.png)
   
 # Topic 9: SI: The innovative software product
 # Innovative Product
@@ -258,9 +260,7 @@ Novelty levels:
 * level 5: en sjælden videnskabelig opdagelse eller innovation af et nyt system.
 
 
-Et godt eksempel på dette er i min optik facebook ja tak tilbud.
-Nu skal stort set alle butikker have et Ja-tak tilbud på facebook således at deres side kan brandes.
-
+![](topics/figures/innovation_types.png)
 
 ### Innovation utility form 1: computing infrastructural
 Innovation for at noget andet infrastruktur nemmere at bruge. FX: Operativ system, netværksprotokol osv.
@@ -351,6 +351,7 @@ Udviklere skal mixe og matche hensigtsmæssigt.
 **Process går i stå**: Udvikler skal introducere noget ind til processen som gør at de kan komme videre.
 **Processen garantere ikke success**
 # Topic 12: SI: The creative software developer
+![](topics/figures/innovation_software_developer.png)
 # Topic 13: SI: The innovative software team
 # Rose kapitel 6
 
@@ -359,7 +360,7 @@ Udviklere skal mixe og matche hensigtsmæssigt.
 * Functional team - Folk arbejder sammen
 * Innovative team - ??
 
-
+![](topics/figures/innovation_software_team.png)
 
 ## Scientific disciplines
 ![](topics/figures/si_innovation_science.png)
