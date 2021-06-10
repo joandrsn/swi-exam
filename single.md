@@ -53,6 +53,8 @@ ESSENCE:
 ## Idé
 En hypotese. Et eksperiment. Vi kan teste det og se om det virker.
 
+# Deweyan Situation
+![](topics/figures/essence_deweyan_situation.png)
 
 # Deweyan Inquiry
 ![](topics/figures/essence_deweyan.png)
@@ -189,9 +191,15 @@ Silvan har "faglærte" medarbejdere, mens discount har ikke.
 * PCRT
 * Samme teknikker som til [Ecology](essence_preproject_ecology.md)
 # Topic 5: Essence: The Prospect concept and Prospect Scenarios
+![](topics/figures/essence_prospects.png)
+![](topics/figures/essence_prospect_scenarios.png)
+![](topics/figures/essence_prospect_subscenarios.png)
+![](topics/figures/essence_prospect_axis.png)
+![](topics/figures/essence_prospect_psyche.png)
+![](topics/figures/essence_how_we_share_ideas.png)
 # Topic 6: Essence: Configurations – Tactics, Strategy and Rationale
-# Tactics, strategy and rationale
-
+![](topics/figures/essence_configurations.png)
+## Tactics, strategy and rationale
 ![](topics/figures/essence_config_table.png)
 # Topic 7: Essence: Configurations – Paradigm, Product, Project and Process
 # Topic 8: Essence: Project management, ETVX – Pivot or Persevere
