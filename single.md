@@ -507,7 +507,8 @@ Psycho-metric - measureing the strenghts and weeknesses of people
   * Work group support
   * Organizational encouragement
 # Topic 16: Future Research in Agile Systems Development: Applying Open Innovation Principles Within the Agile Organisation
-# Future research
+
+# Starting point
 
 * Agile approches move away from introverted into customer in all areas of the decelopment
 * Support innovation and value-creation
@@ -515,28 +516,34 @@ Psycho-metric - measureing the strenghts and weeknesses of people
 * Theres a reason why you have single point of access. Development can be stalled due to policy. Multiple stakeholder outside the business unit.
 
 ## Purpose
-* Intra-organizationl.
+* Explore intra-organizational applicability and implications of open innovation in agile systems developement.
 
 ## Agile and Creativity.
 * *Creativity*: Produce work considered novel, appropiate and adaptive.
 * *Creative activites*: Pivotal role all aspects of IT development.
 Integration and things.
+![](topics/figures/open_innovation_agile_creative.png)
 
 ## Agile and Innovation
 * Agile approach best employed to explore new ground.
+![](topics/figures/open_innovation_agile_innovation.png)
 
 
 ## Organizational levels
 * Inter-organizational: Accross companies.
 * Intra-organization: Between business units INSIDe the company.
-
+![](topics/figures/open_innovation_organizational.png)
 
 # Closed and open innovation
+![](topics/figures/open_innovation_closed_vs_open.png)
 * Traditional innovation process: *linear approach*
   * Con: Secrecy. 
 ## Open innovation:
 * Not all the smart people work for us.
 * External R&D
+![](topics/figures/open_innovation_overview.png)
+
+![](topics/figures/open_innovation_inside_out.png)
 
 ##
 * Innovation collaboration between the agile team and other stakeholders
